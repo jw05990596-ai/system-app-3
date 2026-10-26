@@ -1,0 +1,2 @@
+{"appId":"com.system.dailyquest","appName":"System","webDir":"www","backgroundColor":"#050a17",
+ "server":{"androidScheme":"https"},"plugins":{"CapacitorHttp":{"enabled":true}}}
